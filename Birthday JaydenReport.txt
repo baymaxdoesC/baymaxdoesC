@@ -1,0 +1,64 @@
+Report created: 
+	6/30/2018	12:20:57 AM
+
+Project name: Birthday Jayden.aep
+
+Source files collected to: 
+	C:\Users\Husky\Desktop\Happy Birthday Motion Graphic
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Baloon
+	Baloon Hijau
+	Backgorund
+	GIFT BACKGROUND 1
+	Gift Background 2
+	GIFT Background 1a
+	Gift Background 2a
+	Cake Background
+	Cake Background 2
+	Cake Background 3
+	Cake Background 4
+	3d Gift Test
+	Cute_cat
+	Text Balloon
+	Catass
+	Explosion
+	Explosion2
+	Baloons
+	Explosions
+	
+Number of collected files:  6
+
+Size of collected files:  2.5 MB
+
+Collected source files: 
+	C:\Users\Husky\Desktop\Desktop\Mograph intro\Birthday Card\ball.png
+	C:\Users\Husky\Desktop\Desktop\Mograph intro\Birthday Card\fish-fish-bone-icon--9.png
+	C:\Users\Husky\Desktop\Desktop\Mograph intro\Birthday Card\havaianas07.png
+	C:\Users\Husky\Desktop\Desktop\Mograph intro\Birthday Card\text Baloon.png
+	C:\Users\Husky\Desktop\Desktop\Mograph intro\HappyBirthday.png
+	C:\Users\Husky\Downloads\Music\bensound-ukulele.mp3
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  5
+
+Effect:  Change to Color
+	
+Effect:  Colorama
+	
+Effect:  Echospace
+	
+Effect:  Hue/Saturation
+	
+Effect:  Particular
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Eras Demi ITC”, Font style: “Regular”
+
